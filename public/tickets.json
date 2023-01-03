@@ -1,0 +1,58 @@
+{
+  "tickets": [
+    {
+      "id": "2",
+      "price": 21000,
+      "departure": "16:48",
+      "arrival": "19:45",
+      "timeDeparture": "9 окт 2022, пт",
+      "timeArrival": "10 окт 2022, сб",
+      "transfer": "2"
+    },
+    {
+      "id": "1",
+      "price": 20000,
+      "departure": "15:45",
+      "arrival": "16:41",
+      "timeDeparture": "9 окт 2022, пт",
+      "timeArrival": "10 окт 2022, сб",
+      "transfer": "1"
+    },
+    {
+      "id": "6",
+      "price": 25000,
+      "departure": "10:10",
+      "arrival": "12:50",
+      "timeDeparture": "9 окт 2022, пт",
+      "timeArrival": "10 окт 2022, сб",
+      "transfer": "1"
+    },
+    {
+      "id": "5",
+      "price": 24000,
+      "departure": "15:20",
+      "arrival": "18:41",
+      "timeDeparture": "9 окт 2022, пт",
+      "timeArrival": "10 окт 2022, сб",
+      "transfer": "2"
+    },
+    {
+      "id": "3",
+      "price": 22000,
+      "departure": "20:52",
+      "arrival": "21:51",
+      "timeDeparture": "9 окт 2022, пт",
+      "timeArrival": "10 окт 2022, сб",
+      "transfer": "3"
+    },
+    {
+      "id": "4",
+      "price": 23000,
+      "departure": "21:44",
+      "arrival": "23:10",
+      "timeDeparture": "9 окт 2022, пт",
+      "timeArrival": "10 окт 2022, сб",
+      "transfer": "0"
+    }
+  ]
+}
