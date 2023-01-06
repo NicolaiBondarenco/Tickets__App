@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import Filter from './Components/Filter/Filter'
-import Items from './Components/Items/Items'
+import Filter from '../Filter/Filter'
+import Items from '../Items/Items'
 
 const App = () => {
   const [dataCheckBox, setDataCheckBox] = useState([])
